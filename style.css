@@ -1,0 +1,10 @@
+body
+{
+    background-color: #cae3e7;
+}
+svg
+{
+    position: absolute;
+    left: 400px;
+    top: 100px;
+}
